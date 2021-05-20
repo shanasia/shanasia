@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @shanasia
-- 👀 I’m interested simple website design and deployment for my own personal needs.
-- 🌱 I’m currently learning HTML, CSS and using Bootstrap.
-- 💞️ I’m looking to collaborate on writing projects!
-- 📫 How to reach me (check back on this later!)
+My name is Shanasia and I am getting into coding as a hobby. Maybe a weird hobby but a hobby nonetheless. I'll start by making my own personal website "from scratch" and taking it from there! Open to any suggestions on web development
 
 <!---
 shanasia/shanasia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
